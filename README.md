@@ -11,4 +11,4 @@ DDoS+Attacks
 
 5. Obtaining the results and analyzing Wireshark traces.
 
-6. To conclude, Suggested Controls for Enterprises and References for the project are given in "Suggested_Controls.pdf".
+6. To conclude, Suggested Controls for Enterprises to prevent the SDN networks from DDoS attacks. 
