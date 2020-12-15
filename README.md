@@ -11,4 +11,4 @@ DDoS+Attacks
 
 5. Obtaining the results and analyzing Wireshark traces.
 
-6. To conclude, Suggested Controls for Enterprises to prevent the SDN networks from DDoS attacks. 
+6. To conclude, Suggested Controls for Enterprises to prevent the SDN networks from DDoS attacks. Thus, the project aims at gaining the attacker's perspective towards susceptibility of SDN networks so as to prevent harmful DDoS attacks.
